@@ -1,0 +1,33 @@
+.title {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 4rem;
+    letter-spacing: -2px;
+    margin-left: 3rem;
+    margin-top: 1rem;
+    font-weight: 700;
+}
+
+.project-title {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 3rem;
+    letter-spacing: -2px;
+    font-weight: 500;
+}
+
+.side-img {
+    height: 20rem;
+}
+
+.custom-grid{
+    height: 100vh;
+    margin: auto;
+    width: 80%;
+    display: grid;
+    gap: 3rem;
+    grid-template-columns: 1fr 4fr;
+    margin-top: 2.5rem;
+}
+
+.prj-info {
+    width: 100%;
+}
